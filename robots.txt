@@ -1,0 +1,36 @@
+# https://tothemoonpark-cpu.github.io/ — 박근필성장연구소
+User-agent: *
+Allow: /
+
+# 백업·미리보기·테스트 파일은 색인 제외
+Disallow: /pilacademy/_백업
+Disallow: /pilacademy/index_
+Disallow: /pilacademy/author_
+Disallow: /pilacademy/__
+Disallow: /pilacademy/mobile-test.html
+Disallow: /pilacademy/success.html
+
+# AI 답변엔진 크롤러 명시 허용 (AEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://tothemoonpark-cpu.github.io/pilacademy/sitemap.xml
+
+# LLM 요약본
+# https://tothemoonpark-cpu.github.io/pilacademy/llms.txt
