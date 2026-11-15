@@ -34,3 +34,5 @@ Sitemap: https://tothemoonpark-cpu.github.io/pilacademy/sitemap.xml
 
 # LLM 요약본
 # https://tothemoonpark-cpu.github.io/pilacademy/llms.txt
+
+#DaumWebMasterTool:99403bfb2b7161f394ef88aa3354ffce19feed4754161fbe42c5cafda055d2f5:CNSJIIGOISrSV2aL3hPlgQ==
