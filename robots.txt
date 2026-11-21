@@ -36,3 +36,4 @@ Sitemap: https://tothemoonpark-cpu.github.io/pilacademy/sitemap.xml
 # https://tothemoonpark-cpu.github.io/pilacademy/llms.txt
 
 #DaumWebMasterTool:99403bfb2b7161f394ef88aa3354ffce19feed4754161fbe42c5cafda055d2f5:CNSJIIGOISrSV2aL3hPlgQ==
+#DaumWebMasterTool:6b4fc2ab81ee9fd31301d727d7d17545942a5705a35599d871222accbfc4ce6b:CwADIp+6ZHYYqogn2XaFYA==
